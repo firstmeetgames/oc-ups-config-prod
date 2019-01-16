@@ -32,8 +32,8 @@ facebook.callbackUrl: 'https://recharge-agmth.firstmeetgame.com'
 chujian.clientId: 'thtg'
 chujian.clientSecret: 'thtg'
 
-chujian.usercenter.url : 'https://usercenter.ups.firstmeet:8080'
-chujian.paycenter.url: 'https://paycenter.ups.firstmeet:8080'
+chujian.usercenter.url : 'http://usercenter.ups.firstmeet:8080'
+chujian.paycenter.url: 'http://paycenter.ups.firstmeet:8080'
 chujian.gameinfocenter.url: 'http://10.201.0.9:8848'
 
 chujian.user.me.url: '${chujian.usercenter.url}/user/me'
@@ -50,7 +50,8 @@ chujian.bluepay.callback.url: '${chujian.paycenter.url}/bluepay/callbacks'
 
 chujian.order.list.url: '${chujian.paycenter.url}/query/orders'
 
-bluepay.cashcard.url: 'http://th.webpay.bluepay.tech/bluepay/cashcard/index.php'
+#bluepay.cashcard.url: 'http://th.webpay.bluepay.tech/bluepay/cashcard/index.php'
+bluepay.cashcard.url: 'http://test.webpay.bluepay.tech/bluepay/cashcard/index.php'
 bluepay.product.id: '1999'
 bluepay.shoppe.id: 'thtg_bluepay'
 
