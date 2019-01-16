@@ -48,4 +48,4 @@ mta.setting:
       - 'SDKActivatedEvent'
       - 'SplashStartRequestedEvent'
 
-event.rule.path: 'classpath*:rules/**/*.drl' #可以配置绝对路径: file:/data/mta/rules/**/*.drl
+event.rule.path: 'classpath*:rules/**/*.xls' #可以配置绝对路径: file:/data/mta/rules/**/*.drl
