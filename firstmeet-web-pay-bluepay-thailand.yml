@@ -34,7 +34,7 @@ chujian.clientSecret: 'thtg'
 
 chujian.usercenter.url : 'https://ups.firstmeetgame.com/usercenter'
 chujian.paycenter.url: 'https://ups.firstmeetgame.com/paycenter'
-chujian.gameinfocenter.url: 'http://150.109.167.167:8848'
+chujian.gameinfocenter.url: 'http://10.201.0.9:8848'
 
 chujian.user.me.url: '${chujian.usercenter.url}/user/me'
 chujian.user.auth.url : '${chujian.usercenter.url}/oauth/token'
