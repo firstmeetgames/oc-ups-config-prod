@@ -61,9 +61,11 @@ management:
         include: '*'
 
 bluepay:
-  cashcard.url: 'http://th.webpay.bluepay.tech/bluepay/cashcard/index.php'
+  cashcard.url: 'http://test.webpay.bluepay.tech/bluepay/cashcard/index.php'
+  #cashcard.url: 'http://th.webpay.bluepay.tech/bluepay/cashcard/index.php'
   order.checkOn: true
-  querytrans.detail.url: 'http://th.api.bluepay.tech/charge/service/queryTransDetail'
+  querytrans.detail.url: 'http://120.76.101.146:8160/thaiCharge/service/queryTransDetail'
+  #querytrans.detail.url: 'http://th.api.bluepay.tech/charge/service/queryTransDetail'
   encrypt.key: 'e44865ae64739e08'
 
 googlepay:
