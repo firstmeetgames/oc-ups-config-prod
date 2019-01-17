@@ -98,7 +98,7 @@ shoppe.variants.get.url: 'http://shoppecenter.ups.firstmeet:8080/shoppes/{shoppe
 
 gameserver.shipping.clients:
   default:
-    url: 'http://150.109.167.167:9136/gameThairecharge'
+    url: 'http://10.201.0.9:9136/gameThairecharge'
     count: 6
     interval: 5000
 
