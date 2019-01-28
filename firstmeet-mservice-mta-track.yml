@@ -42,7 +42,7 @@ chujian:
 mta.setting:
   clients:
     default:
-      interval: 10000
+      interval: 3000
       enable_report: 'ALL'
       parts:
       - 'SDKActivatedEvent'
