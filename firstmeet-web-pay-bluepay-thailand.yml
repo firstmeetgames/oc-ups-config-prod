@@ -50,8 +50,8 @@ chujian.bluepay.callback.url: '${chujian.paycenter.url}/bluepay/callbacks'
 
 chujian.order.list.url: '${chujian.paycenter.url}/query/orders'
 
-#bluepay.cashcard.url: 'http://th.webpay.bluepay.tech/bluepay/cashcard/index.php'
-bluepay.cashcard.url: 'http://test.webpay.bluepay.tech/bluepay/cashcard/index.php'
+bluepay.cashcard.url: 'http://th.webpay.bluepay.tech/bluepay/cashcard/index.php'
+#bluepay.cashcard.url: 'http://test.webpay.bluepay.tech/bluepay/cashcard/index.php'
 bluepay.product.id: '1999'
 bluepay.shoppe.id: 'thtg_bluepay'
 
